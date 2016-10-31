@@ -1,6 +1,9 @@
 ### App ###
 # Put files you want to ignore here
 
+# Do not ignore the Processing 3 library
+!libs/core.jar
+
 ### Processing ###
 .DS_Store
 applet
