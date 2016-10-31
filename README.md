@@ -1,6 +1,7 @@
 # Processing Template
 
-A template to use Processing with IntelliJ IDEA.
+Simple **Processing 3** application that includes a class with `setup()` and `draw()` methods.
+Processing library included.
 
 Inspired by [a presentation by Andreas Köberle](http://www.slideshare.net/eskimoblood/processing-in-intellij).
 
