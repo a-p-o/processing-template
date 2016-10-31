@@ -13,7 +13,7 @@ import processing.core.PApplet;
  * TODO Put project description here
  */
 public class Main extends PApplet {
-    // TODO Run project by right-clicking in this window and selecting "Run Main"
+    // TODO Run project by right-clicking in this window and selecting "Run Main.main()"
 
     /*
      * Differences in Java vs Processing:
@@ -35,8 +35,6 @@ public class Main extends PApplet {
      * public void draw() { ... }
      *
      * etc.
-     *
-     *
      */
 
     public static void main(String[] args) {
